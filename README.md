@@ -1,7 +1,5 @@
 This is the frontend for the Human Resource Management (HRM) System built using Next.js and TypeScript. It provides an Admin Site for managing employee data and a User Site for employees to access their profiles and submit requests.
 
-
-
 ## Technologies Used
 
 -   **Framework**: Next.js
@@ -38,8 +36,33 @@ User Dashboard:
 Data Fetching:
   - Employee data is fetched from a placeholder API (`https://jsonplaceholder.typicode.com/users`), which simulates the actual data source for demonstration purposes.
 
+  Advantages:
+
+  - Khám phá thêm được nextjs và typecript.
+  - Sử dụng axios để có thể fetch api nhanh hơn.
+
+  Disadvantages:
+
+  - Chưa hoàn thành hết được các chức năng.
+  - Chưa hiểu biết sâu về nextjs và typecript.
+  - Còn hạn chế về xử lý logic.
+
+  Development Phases
+  - Planning:
+    - Xác định các yêu cầu của dự án, bao gồm các tính năng cho cả trang tổng quan Quản trị viên và Người dùng.
+    - Chọn ngăn xếp công nghệ (Next.js, TypeScript, Material-UI).
+
+  - Setup:
+    - Tạo dự án Next.js và cài đặt các phụ thuộc cần thiết.
+    - Cấu trúc các thư mục dự án cho pages, components, and styles.
+
+  - Development:
+    - Đã triển khai Trang chủ với các liên kết điều hướng đến bảng điều khiển của Quản trị viên và Người dùng.
+    - Phát triển Bảng điều khiển dành cho quản trị viên để fetch và hiển thị dữ liệu nhân viên bằng Axios.
+    - Tạo Bảng điều khiển người dùng để xem hồ sơ nhân viên dựa trên dữ liệu người dùng đã chọn.
 
 
+  - My web reactjs basic: https://react-bicycle-pi.vercel.app/
 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
