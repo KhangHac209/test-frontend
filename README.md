@@ -1,3 +1,39 @@
+This is the frontend for the Human Resource Management (HRM) System built using Next.js and TypeScript. It provides an Admin Site for managing employee data and a User Site for employees to access their profiles and submit requests.
+
+This is the frontend for the Human Resource Management (HRM) System built using Next.js and TypeScript. It provides an Admin Site for managing employee data and a User Site for employees to access their 
+
+This is the frontend for the Human Resource Management (HRM) System built using Next.js and TypeScript. It provides an Admin Site for managing employee data and a User
+
+This is the frontend for the Human Resource Management (HRM) System built using Next.js and TypeScript. It provides an Admin Site for m
+
+This is the frontend for the Human Resource Management (HRM) System built using Next.js and TypeScript. It provides an A
+
+This is the frontend for the Human Resource Management (HRM) System built using Next.js a
+
+This is the frontend for th
+
+## Technologies Used
+
+- **Framework**: Next.js
+- **Language**: TypeScript
+- **Styling**: Material-UI
+- **State Management**: React Hooks
+- **Data Fetching**: Axios
+
+## Installation
+
+To set up the project locally, follow these steps:
+
+To set up the project locall
+1. **Clone the repository**:
+   
+```bash
+   git clone https://github.com/yourusername/test-frontend.git
+   cd test-frontend
+    
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
