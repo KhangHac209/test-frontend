@@ -1,16 +1,6 @@
 This is the frontend for the Human Resource Management (HRM) System built using Next.js and TypeScript. It provides an Admin Site for managing employee data and a User Site for employees to access their profiles and submit requests.
 
-This is the frontend for the Human Resource Management (HRM) System built using Next.js and TypeScript. It provides an Admin Site for managing employee data and a User Site for employees to access their
 
-This is the frontend for the Human Resource Management (HRM) System built using Next.js and TypeScript. It provides an Admin Site for managing employee data and a User
-
-This is the frontend for the Human Resource Management (HRM) System built using Next.js and TypeScript. It provides an Admin Site for m
-
-This is the frontend for the Human Resource Management (HRM) System built using Next.js and TypeScript. It provides an A
-
-This is the frontend for the Human Resource Management (HRM) System built using Next.js a
-
-This is the frontend for th
 
 ## Technologies Used
 
