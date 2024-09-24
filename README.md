@@ -1,6 +1,6 @@
 This is the frontend for the Human Resource Management (HRM) System built using Next.js and TypeScript. It provides an Admin Site for managing employee data and a User Site for employees to access their profiles and submit requests.
 
-This is the frontend for the Human Resource Management (HRM) System built using Next.js and TypeScript. It provides an Admin Site for managing employee data and a User Site for employees to access their 
+This is the frontend for the Human Resource Management (HRM) System built using Next.js and TypeScript. It provides an Admin Site for managing employee data and a User Site for employees to access their
 
 This is the frontend for the Human Resource Management (HRM) System built using Next.js and TypeScript. It provides an Admin Site for managing employee data and a User
 
@@ -14,23 +14,35 @@ This is the frontend for th
 
 ## Technologies Used
 
-- **Framework**: Next.js
-- **Language**: TypeScript
-- **Styling**: Material-UI
-- **State Management**: React Hooks
-- **Data Fetching**: Axios
+-   **Framework**: Next.js
+-   **Language**: TypeScript
+-   **Styling**: Material-UI
+-   **State Management**: React Hooks
+-   **Data Fetching**: Axios
 
 ## Installation
 
 To set up the project locally, follow these steps:
 
 To set up the project locall
+
 1. **Clone the repository**:
-   
-```bash
-   git clone https://github.com/yourusername/test-frontend.git
+
+````bash
+   git clone https://github.com/KhangHac209/test-frontend
    cd test-frontend
-    
+
+
+2. ** Make sure install Node.js **
+    npm install
+    npm run dev
+
+[Features]
+Admin Dashboard: View and manage employ
+User Dashboard: View
+Responsive Design: The application i
+Data Fetching: Employee data is fetched from a
+
 
 
 
@@ -48,7 +60,7 @@ yarn dev
 pnpm dev
 # or
 bun dev
-```
+````
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
@@ -60,8 +72,8 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+-   [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+-   [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
