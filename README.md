@@ -37,11 +37,17 @@ To set up the project locall
     npm install
     npm run dev
 
-[Features]
-Admin Dashboard: View and manage employ
-User Dashboard: View
-Responsive Design: The application i
-Data Fetching: Employee data is fetched from a
+## Features
+
+Admin Dashboard:
+  - View and manage employee data.
+
+User Dashboard:
+  - View personal profiles.
+
+Data Fetching:
+  - Employee data is fetched from a placeholder API (`https://jsonplaceholder.typicode.com/users`), which simulates the actual data source for demonstration purposes.
+
 
 
 
